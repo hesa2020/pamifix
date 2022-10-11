@@ -1,7 +1,7 @@
 {
-  "name": "marcelog/pami",
+  "name": "hesa2020/pami",
   "type": "library",
-  "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented",
+  "description": "Fix for unmaintained marcelog/pami",
   "keywords": ["asterisk","ami","client","telephony","voip","event","action","manager","monitor"],
   "homepage": "http://marcelog.github.com/PAMI",
   "license": "Apache-2.0",
